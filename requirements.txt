@@ -1,0 +1,8 @@
+flask
+flask-cors
+mysql-connector-python
+numpy
+pillow
+keras-facenet
+scikit-learn
+opencv-python-headless
