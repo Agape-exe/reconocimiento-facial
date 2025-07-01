@@ -2,7 +2,7 @@ flask
 flask-cors
 mysql-connector-python
 numpy
-pillow
+opencv-python
 keras-facenet
 scikit-learn
-opencv-python-headless
+tensorflow==2.11.0
